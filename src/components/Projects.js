@@ -15,7 +15,7 @@ const PROJECTS=[
         id:'project2',
         title:'BOOK-NOW',
         desc:'App manage appointments',
-        cover:'End-image.jpeg',
+        cover:'white-background.jpg',
         tags:["Java","Andriod","OOP","FireBase","SDK"],
         liveUrl:"https://www.youtube.com/watch?v=mvoXgLWGuk8",
         codeUrl:"https://github.com/CourseGamedeveloper/Hells-Paradise"
@@ -25,7 +25,7 @@ const PROJECTS=[
         id:'project3',
         title:'Worst-Case Fair Division Algorithn Implementation & Web Platform',
         desc:'Algorithm',
-        cover:'End-image.jpeg',
+        cover:'white-background.jpg',
         tags:["JavaScipts","Python-Flask","OOP","research","HTML","CSS"],
         liveUrl:"https://ibrahemhurani.csariel.xyz/",
         codeUrl:"https://github.com/IbrahemHurani/markakis_psomas_web"
@@ -35,7 +35,7 @@ const PROJECTS=[
         id:'project4',
         title:'Chat Room',
         desc:'Client-Server Chat Application',
-        cover:'End-image.jpeg',
+        cover:'white-background.jpg',
         tags:["Python","TCP","UDP","OOP"],
         liveUrl:"https://www.youtube.com/watch?v=0onQCSt8kuE",
         codeUrl:"https://github.com/IbrahemHurani/markakis_psomas_web"
