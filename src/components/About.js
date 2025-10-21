@@ -9,7 +9,7 @@ const About = () => {
         <p>
             In my portfolio, you'll find a selection of projects that showcase my abilities and creativity. 
             I'm always open to new opportunities and collaborations, so feel free to reach out!
-                       ......still in progress.....
+            <p className="mywebsite-word"> ......My Website still in progress!!!.....</p>
         </p>
         
     </section>

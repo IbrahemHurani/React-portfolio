@@ -5,7 +5,7 @@ const Contact = () =>{
             <h2>Contact Me</h2>
             <div className="contact-info">
                 <ul>
-                    <li>📱 Phone: 052574313</li>
+                    <li>📱 Phone: 0525743133</li>
                     <li>📧 Email: abrahem_horani@hotmail.com</li>
                     <li>📍 Location: Majd Al-Kurum</li>
                 </ul>

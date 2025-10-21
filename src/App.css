@@ -95,6 +95,10 @@ p {
   color: #e0e0e0;
   line-height: 1.6;
 }
+.mywebsite-word {
+  color: #df2113;
+  font-weight: bold;
+}
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
