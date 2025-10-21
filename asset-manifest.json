@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IbrahemHurani/React-portfolio.git/static/css/main.90bfdb7c.css",
-    "main.js": "/IbrahemHurani/React-portfolio.git/static/js/main.9d5c3436.js",
-    "static/js/453.6d7ffaa9.chunk.js": "/IbrahemHurani/React-portfolio.git/static/js/453.6d7ffaa9.chunk.js",
-    "index.html": "/IbrahemHurani/React-portfolio.git/index.html",
-    "main.90bfdb7c.css.map": "/IbrahemHurani/React-portfolio.git/static/css/main.90bfdb7c.css.map",
-    "main.9d5c3436.js.map": "/IbrahemHurani/React-portfolio.git/static/js/main.9d5c3436.js.map",
-    "453.6d7ffaa9.chunk.js.map": "/IbrahemHurani/React-portfolio.git/static/js/453.6d7ffaa9.chunk.js.map"
+    "main.css": "/IbrahemHurani/portfolio.git/static/css/main.90bfdb7c.css",
+    "main.js": "/IbrahemHurani/portfolio.git/static/js/main.c4981c9f.js",
+    "static/js/453.6d7ffaa9.chunk.js": "/IbrahemHurani/portfolio.git/static/js/453.6d7ffaa9.chunk.js",
+    "index.html": "/IbrahemHurani/portfolio.git/index.html",
+    "main.90bfdb7c.css.map": "/IbrahemHurani/portfolio.git/static/css/main.90bfdb7c.css.map",
+    "main.c4981c9f.js.map": "/IbrahemHurani/portfolio.git/static/js/main.c4981c9f.js.map",
+    "453.6d7ffaa9.chunk.js.map": "/IbrahemHurani/portfolio.git/static/js/453.6d7ffaa9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90bfdb7c.css",
-    "static/js/main.9d5c3436.js"
+    "static/js/main.c4981c9f.js"
   ]
 }
