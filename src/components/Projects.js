@@ -17,8 +17,8 @@ const PROJECTS=[
         desc:'App manage appointments',
         cover:'white-background.jpg',
         tags:["Java","Andriod","OOP","FireBase","SDK"],
-        liveUrl:"https://www.youtube.com/watch?v=mvoXgLWGuk8",
-        codeUrl:"https://github.com/CourseGamedeveloper/Hells-Paradise"
+        liveUrl:"https://github.com/yousefmasarwa97/Book_Now",
+        codeUrl:"https://github.com/yousefmasarwa97/Book_Now"
 
     },
     {
@@ -38,7 +38,7 @@ const PROJECTS=[
         cover:'white-background.jpg',
         tags:["Python","TCP","UDP","OOP"],
         liveUrl:"https://www.youtube.com/watch?v=0onQCSt8kuE",
-        codeUrl:"https://github.com/IbrahemHurani/markakis_psomas_web"
+        codeUrl:"https://github.com/IbrahemHurani/Chat_ROOM"
 
     },
     
