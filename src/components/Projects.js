@@ -7,7 +7,7 @@ const PROJECTS=[
         desc:'3D-Game',
         cover:'End-image.jpeg',
         tags:["C#","Unity","OOP","algorthim","3D","UI/UX"],
-        liveUrl:"https://www.youtube.com/watch?v=mvoXgLWGuk8",
+        liveUrl:"https://ibrahem-hurani.itch.io/hells-paradise-3d",
         codeUrl:"https://github.com/CourseGamedeveloper/Hells-Paradise"
 
     },
