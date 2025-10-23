@@ -41,6 +41,25 @@ const PROJECTS=[
         codeUrl:"https://github.com/IbrahemHurani/Chat_ROOM"
 
     },
+    {
+      id:'project5',
+      title:'DJI-Drone Application',
+      desc:'andriod application enabling autonomous flight of drones with google maps',
+      cover:'Drone-image.jpeg',
+      tags:["Java","Andriod","OOP","SDK","Drone","algorthim","UI/UX","google-maps"],
+      liveUrl:"https://www.youtube.com/watch?v=781JmPTZTJc",
+      codeUrl:"https://github.com/IbrahemHurani/Mini-Drone-Simulation"
+
+    },
+    {
+      id:'project6',
+      title:'Target-Drop-Game',
+      desc:'Press Drop to release the ball,The closer it lands to the target center,the higher the round score',
+      cover:'white-background.jpg',
+      tags:['angular','TypeScript','OOP','UI/UX','algorthim','HTML','CSS','firebase'],
+      liveUrl:"https://github.com/IbrahemHurani/Target-Drop",
+      codeUrl:"https://github.com/IbrahemHurani/Target-Drop"
+      }
     
     
 
